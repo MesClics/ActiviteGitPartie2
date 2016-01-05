@@ -1,7 +1,7 @@
 <?php
     echo '<div id="logo">
-            <h1>MesFilms</h1>
-            <h2>Liste des films vus au ' . date('d M Y') . '.</h2>
+            <h1>Mes Films</h1>
+            <h2>Liste des films vus au ' . date('d M Y') . '</h2>
         </div>
         
         <ul id="menu">

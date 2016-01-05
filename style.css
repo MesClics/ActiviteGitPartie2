@@ -1,0 +1,36 @@
+body {
+    color : rgba(0,0,0,0.5);
+    font-family : Arial, Sans-serif;
+    background-color : #33D1F5;}
+
+#logo{
+    color : #ffffff;
+    text-transform: uppercase;
+    text-align: center;}
+    
+    #logo h1{
+        display: inline-block;
+        background-color: rgba(0,0,0,0.5);
+        padding: 0.3em 1em;}
+
+    #logo h2{
+        font-size: 0.9em;
+        padding: 0 ;
+        margin: 0em;}
+
+#menu{
+    padding : 0;
+    margin : 0.3em;
+    text-align: center}
+
+    #menu li{
+        display: inline-block;
+        margin-right : 0.8em;
+        padding : 0.3em;
+        list-style-type: none;
+        background-color: #ffffff;}
+
+    #menu a{
+        color : rgba(0,0,0,0.5);
+        text-decoration: none;
+        cursor: pointer;}
